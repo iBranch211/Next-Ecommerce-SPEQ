@@ -1,6 +1,4 @@
-#### App is live and running at 
 
-### https://nextjs-ecommerce-typescript.vercel.app/
 
 
  - don't forget to leave a star ! :)
@@ -14,8 +12,8 @@
 
 
 #### multi User Login System
-- SignIn / SignUp ✔
-- Forget Password ✔
+- SignIn / SignUp (TODO)
+- Forget Password (TODO)
 - JWT validation on each Authorized Request (TODO)
 - Authorization validation for Admin Access and Customer Access (TODO)
 
