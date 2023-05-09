@@ -26,8 +26,8 @@
  - update product (TODO)
  - Add a Category ✔
  - view Category (Data tables) ✔
- - update Category  ✔
- - Delete category ✔
+ - update Category (TODO)
+ - Delete category (TODO)
  - Handle Order Delivery  (TODO)
 
 # Customer
